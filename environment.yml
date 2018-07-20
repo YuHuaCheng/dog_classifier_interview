@@ -1,0 +1,10 @@
+name: dog
+channels: !!python/tuple
+- !!python/unicode
+  'defaults'
+dependencies:
+  - python=3.4
+  - pandas
+  - numpy
+- pip:
+  - pytest

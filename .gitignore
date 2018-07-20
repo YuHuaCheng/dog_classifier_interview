@@ -1,0 +1,8 @@
+.idea
+*.iml
+dist
+build
+*.egg-info
+runtests.py
+.pytest*
+*.pyc
